@@ -1,0 +1,28 @@
+{
+  "name": "react-json-to-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monlouisj/reactJsonToTable.git"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "lodash": "4.3.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "author": "monlouisj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monlouisj/reactJsonToTable/issues"
+  },
+  "homepage": "https://github.com/monlouisj/reactJsonToTable#readme",
+  "devDependencies": {
+    "babelify": "^7.2.0"
+  }
+}
